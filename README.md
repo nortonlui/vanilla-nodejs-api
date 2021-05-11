@@ -4,7 +4,7 @@ API montada somente com JS e Node. Utilizando MVC e arquivo JSON como fonte de d
 
 ---
 
-URL: `https:\\xxxx\api\products`
+URL: `https://sleepy-wildwood-78096.herokuapp.com/api/products`
 
 VERBO: GET
 
@@ -12,7 +12,7 @@ Traz todos os produtos cadastrados.
 
 ---
 
-URL: `https:\\xxxx\api\products\:id`
+URL: `https://sleepy-wildwood-78096.herokuapp.com/api/products/:id`
 
 VERBO: GET
 
@@ -20,7 +20,7 @@ Traz somente um produto
 
 ---
 
-URL: `https:\\xxxx\api\products`
+URL: `https://sleepy-wildwood-78096.herokuapp.com/api/products`
 
 VERBO: POST
 
@@ -37,7 +37,7 @@ Cria um produto. Ex.:
 
 ---
 
-URL: `https:\\xxxx\api\products\:id`
+URL: `https://sleepy-wildwood-78096.herokuapp.com/api/products/:id`
 
 VERBO: PUT
 
@@ -54,7 +54,7 @@ Atualiza um produto
 
 ---
 
-URL: `https:\\xxxx\api\products\:id`
+URL: `https://sleepy-wildwood-78096.herokuapp.com/api/products/:id`
 
 VERBO: DELETE
 
